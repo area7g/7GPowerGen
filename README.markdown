@@ -1,4 +1,5 @@
-# Desarrollo de Aplicaciones Agiles con CodeIgniter 2.1.4 
+# 7G PowerGen
+## Desarrollo de Aplicaciones Agiles con CodeIgniter 2.1.4 
 
 
 7GPowerGen : Provee un entorno para desarrollar aplicaciones web de manera sencilla e intuitiva ,logrando interfaces web de calidad.
