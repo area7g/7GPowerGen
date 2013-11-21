@@ -1,43 +1,29 @@
-# Faster Development of CodeIgniter 2.1.4 Apps
+# Desarrollo de Aplicaciones Agiles con CodeIgniter 2.1.4 
 
-<div style="float: right; margin: 0 20px 20px 0">
-	<a href='http://www.pledgie.com/campaigns/15326'><img alt='Click here to lend your support to: Bonfire - faster CodeIgniter development and make a donation at www.pledgie.com !' src='http://pledgie.com/campaigns/15326.png?skin_name=chrome' border='0' /></a>
-</div>
 
-That's Bonfire's goal: provide a solid base off of which to build your new web applications. It's not a CMS. Instead, it's a springboard to build off of with many of the tools you wish you had on projects but never took the time to build.
-
-All wrapped up in an elegant interface that will make you proud when you hand the project over to your client.
+7GPowerGen : Provee un entorno para desarrollar aplicaciones web de manera sencilla e intuitiva ,logrando interfaces web de calidad.
 
 ## Current Features
 
-- Very flexible template/theme system, capable of Wordpress-like parent/child themes.
-- Uses Twitter Bootstrap for the Admin and Default themes
-- Fully modular and built around HMVC
-- 4 ‘contexts’ ready for your code: Content, Reports, Settings and Developer Tools
-- Database backup and maintenance interface
-- Role-based access control
-- Built-in users/auth system
-- Code Builder with CRUD generation
-- Simple email queue system
-- 2-step installer
-- Uses multiple-environment config files.
-- Migration-ready (using either raw SQL or Database Forge commands)
-- Log view/maintenance
+- Templates Flexibles
+- Usa Bootstrap 
+- Modular gracias a HMVC
+- Vistas de Contenido, Reportes, Configuracion y herramientas de Desarrollo.
+- Mantenimiento y Backup de Base de Datos.
+- Sistema de acceso basado en Roles
+- Acceso por usuario incluido.
+- generador de ABM's o CRUD's incluido.
+- Simple email queue 
+- Instalador de 2 pasos
+- Multiples archivos para diferentes entornos (Produccion , Desarrollo, Testing..)
+- Migración automatica
+- Logs para revisar errores.
 
 ## Road Map
 
-Check out our online [road map](https://trello.com/board/bonfire-roadmap/4f21de254768c8463f09c85b) where you can comment and vote on items in the lists.
+##Enero 2014 :
+-Migración a Castellano del Sistema
 
-## Stay Up To Date
-
-Follow Bonfire's progress and commits at Twitter by following [cibonfire](http://twitter.com/#!/cibonfire).
-
-## Lend A Hand
-
-If you're interested in helping out, fork the project and start coding! I'd love to have you on board. You can always shoot me an email at lonnieje@gmail.com and we can talk about how you'll best fit it and what the best place to start coding would be.
-
-
-Let's make this the best kick-start to any CodeIgniter project.
 
 ## Bug Reports 
 
